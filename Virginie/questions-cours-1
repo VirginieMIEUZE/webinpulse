@@ -1,13 +1,5 @@
 COURS 1
 
 1 - Pourquoi gérer différentes versions d'un fichier ?
-	- Sauvegarde en cas d'erreur de manipulation.
-	- Retour en arrière si changement d'avis.
-	- Voir l'évolution de son travail dans le temps.
-
 2 - Quels sont les 2 principales commandes de configuration de Git ?
-	- git config --global user.name "Votre Nom"
-	- git config --global user.email john.doe@example.com
-
 3 - Quel commande permet de voir les différents commit d'un projet ?
-	- git log
